@@ -1,0 +1,29 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Diretórios de compilação
+dist/
+build/
+
+# Arquivos de configuração de ambiente
+.env
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Cache de testes
+coverage/
+
+# Outros
+*.tmp
+*.swp
